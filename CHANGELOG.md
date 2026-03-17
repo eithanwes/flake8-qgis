@@ -1,4 +1,4 @@
-# Unreleased
+# Version 2.0.0 (17-03-2026)
 
 ## New Features
 
