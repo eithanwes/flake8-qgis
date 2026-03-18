@@ -1,4 +1,7 @@
-# Unreleased
+# Undeleased
+
+
+# Version 2.0.1 (18-03-2026)
 
 ## Fixes
 * Use correct package name in pyproject.toml
